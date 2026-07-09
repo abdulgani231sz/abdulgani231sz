@@ -105,28 +105,6 @@ AI-powered aerial parking management system — integrates YOLOv8 detection with
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdulgani231sz/abdulgani231sz/master/metrics.svg" width="100%" alt="Metrics Dashboard" />
-
-</div>
-
-<details>
-<summary>Individual stat cards (backup view)</summary>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulgani231sz&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&cache_seconds=3600" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulgani231sz&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&cache_seconds=3600" width="41%" />
-
-<img src="https://streak-stats.demolab.com?user=abdulgani231sz&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&cache_seconds=3600" width="60%" />
-
-</div>
-
-</details>
-
 ## 🏆 Trophies
 
 <div align="center">
