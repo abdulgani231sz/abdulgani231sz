@@ -1,0 +1,18 @@
+<svg width="100%" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#132539"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="90" fill="url(#fgGrad)"/>
+  <path d="M0,20 C150,0 300,40 450,20 C600,0 750,40 900,20 L900,0 L0,0 Z" fill="#7dd3fc" fill-opacity="0.08">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,20 C150,0 300,40 450,20 C600,0 750,40 900,20 L900,0 L0,0 Z;
+              M0,30 C150,45 300,10 450,30 C600,50 750,15 900,30 L900,0 L0,0 Z;
+              M0,20 C150,0 300,40 450,20 C600,0 750,40 900,20 L900,0 L0,0 Z"/>
+  </path>
+  <text x="450" y="60" font-size="14" fill="#64748b" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif">
+    Thanks for stopping by &#8226; abdulgani231sz
+  </text>
+</svg>
