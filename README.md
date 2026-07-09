@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Abdul Gani — Fullstack AI Automation Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=440&lines=Building+real-time+AI+pipelines;Shipping+end-to-end+CV+systems;Streamlit+dashboards+%2B+pipelines;Seeking+Fullstack+AI+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=440&lines=Building+real-time+AI+Projects+;Shipping+end-to-end++systems;Streamlit+dashboards+%2B+;Seeking+Fullstack+AI+roles)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Fullstack%20AI%20Automation%20Developer-7dd3fc?style=for-the-badge)
 
