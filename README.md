@@ -105,11 +105,6 @@ AI-powered aerial parking management system — integrates YOLOv8 detection with
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdulgani231sz&theme=nord&no-frame=true&no-bg=true&row=1&column=6)
 
 </div>
 
